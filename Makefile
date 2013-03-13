@@ -6,7 +6,7 @@ name = all
 
 total: build_native
 
-test:
+runtest:
 	node test/runner.js -t functional
 
 test_ssl:
